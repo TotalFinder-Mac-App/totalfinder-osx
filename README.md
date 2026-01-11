@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/totalfinder">  
+<a href="https://tubus-jubus-apps.github.io/.github/totalfinder">  
 <img src="https://img.shields.io/badge/💻_GET_TotalFinder-orange?style=for-the-badge&logo=apple" alt="GET TotalFinder">  
 </a>  
 </div>
